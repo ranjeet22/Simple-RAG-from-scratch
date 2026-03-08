@@ -1,6 +1,6 @@
 # Simple RAG Chatbot 🤖
 
-![Application Screenshot](./assets/app-screenshot.png)
+![Application Screenshot](./assets/app-preview.png)
 
 ## Overview
 
@@ -165,4 +165,5 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 ---
 
 Built with ❤️ using [Streamlit](https://streamlit.io) and [Ollama](https://ollama.com)
+
 
