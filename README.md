@@ -1,7 +1,6 @@
 # Simple RAG Chatbot 🤖
 
 ![Application Screenshot](./assets/app-screenshot.png)
-*Add your application screenshot to the `assets` folder*
 
 ## Overview
 
@@ -166,3 +165,4 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 ---
 
 Built with ❤️ using [Streamlit](https://streamlit.io) and [Ollama](https://ollama.com)
+
